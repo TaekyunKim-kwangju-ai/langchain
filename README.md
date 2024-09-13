@@ -1,4 +1,4 @@
-# 🦜️🔗 LangChain
+# 🦜🔗 랭체인
 
 ⚡ Build context-aware reasoning applications ⚡
 
